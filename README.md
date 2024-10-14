@@ -1,11 +1,20 @@
-                                                 Hola!
-                                    Soy Andreina, bienvenid@ a mi perfil.
+# Hola! 👋
 
-                        El área que me apasiona estudiar es el Hacking Ético, HTML
-                                             y Desarrollo Web.
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-            Un buen lugar por donde puedes comenzar es este de acá https://ecuador.unir.net/actualidad-unir/hacking-etico/
+I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** 📝 **DeFi Smart Contract** and 🌐 **Website** for a living and also **Write some blogs**. 🌈    
 
-            E incluso acá puedes optar por becas https://fi.ort.edu.uy/hacking-etico-y-gestion-de-incidentes
-            
-            Y si quieres algo más completo https://www.udemy.com/course/curso-completo-de-hacking-etico/
+* 🧐   Interesada en el desarrollo de videojuegos, Hackin Ético, Inteligencia Artificial, Ciberseguridad y animación.
+*  💼  Actualmente soy una estudiante de Ing. en Sistemas.
+* 🌱   Aprendiendo actualmente Linux, Medicina, Animación 3D.
+* 📚   Leyendo 《Vida 3.0》《Superinteligencia: Caminos, peligros, estrategias (Spanish Edition)》.
+* ⛵   Encantada de conocer personas nuevas, a modo de adquirir y compartir conocimiento.
+
+  ⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 78.43 %
+
+---
+
+⏰ Updated on Mon, 14 Oct 2024 01:06:21 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
